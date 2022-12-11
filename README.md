@@ -6,7 +6,7 @@
 ## A F&B manager wants to determine whether there is any significant difference in the diameter of the cutlet between two units. A randomly selected sample of cutlets was collected from both units and measured? Analyze the data and draw inferences at 5% significance level. Please state the assumptions and tests that you carried out to check validity of the assumptions.
 
 ## Question 2
-## A F&B manager wants to determine whether there is any significant difference in the diameter of the cutlet between two units. A randomly selected sample of cutlets was collected from both units and measured? Analyze the data and draw inferences at 5% significance level. Please state the assumptions and tests that you carried out to check validity of the assumptions.
+![image](https://user-images.githubusercontent.com/115617589/206904899-1b5bec4d-40a2-456f-b94f-70310108f0ae.png)
 
 ## Question 3
 ## Sales of products in four different regions is tabulated for males and females. Find if male-female buyer rations are similar across regions.
